@@ -1,6 +1,3 @@
-reveal_template
-===============
+## Public Speaking through Lightning Talks
 
-A reveal.js template for GDI Ann Arbor
-
-
+A 4-part workshop developed for GDI Ann Arbor.
